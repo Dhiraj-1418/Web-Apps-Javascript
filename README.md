@@ -173,7 +173,7 @@ This project was created as part of my learning journey in JavaScript developmen
 📸 Preview
 
 
-https://github.com/user-attachments/assets/cacaa125-fdea-4dc9-9477-4cdd609df9ba
+<a href="https://github.com/Dhiraj-1418/Web-Apps-Javascript/blob/main/Digital%20clock/main.js">https://github.com/user-attachments/assets/cacaa125-fdea-4dc9-9477-4cdd609df9ba</a>
 
 
 

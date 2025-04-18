@@ -1,5 +1,60 @@
 # Web-Apps-Javascript
 
+
+# 🌠 Image Slider Web Application
+
+This is a simple and responsive **Image Slider** (Carousel) built using **HTML**, **CSS**, and **JavaScript**. It allows users to cycle through a series of images with smooth transitions and intuitive controls.
+
+🔗 **GitHub Repository:**  
+[Image Slider - Web App](https://github.com/Dhiraj-1418/Web-Apps-Javascript/tree/main/Image%20slider)
+
+## 🚀 Features
+
+- Smooth slide transition effects
+- Previous and Next navigation buttons
+- Automatic and manual image switching
+- Fully responsive layout for all screen sizes
+- Clean and minimal design
+
+## 🧰 Technologies Used
+
+- **HTML** – for structuring the content
+- **CSS** – for styling the layout and animations
+- **JavaScript** – for interactivity and slider logic
+
+## 📁 How to Use
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/Dhiraj-1418/Web-Apps-Javascript.git
+Navigate to the slider folder:
+
+bash
+Copy
+Edit
+cd Web-Apps-Javascript/Image\ slider
+Open index.html in your web browser to see the slider in action.
+
+📸 Preview
+<!-- Optionally add a screenshot or GIF here --> <!-- ![Preview](preview.png) -->
+📄 License
+This project is licensed under the MIT License – feel free to use, modify, and share.
+
+👨‍💻 Developed by Dhiraj
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you'd like help adding a screenshot, demo link, or customizing it further!
+
+
+
+
+
+
 Counter Web App
 This is a simple and interactive Counter Web App built using HTML, CSS, and JavaScript. The app allows users to increment, decrement, and reset a numerical counter with ease.
 

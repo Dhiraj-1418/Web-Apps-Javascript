@@ -36,7 +36,7 @@ cd Web-Apps-Javascript/Image\ slider
 Open index.html in your web browser to see the slider in action.
 
 📸 Preview
-<!-- Optionally add a screenshot or GIF here --> <!-- ![Preview](preview.png) -->
+
 📄 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
 
